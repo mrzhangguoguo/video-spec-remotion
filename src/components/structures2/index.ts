@@ -1,0 +1,7 @@
+export { TreeDiagram } from './TreeDiagram'
+export { MindMap } from './MindMap'
+export { Matrix2x2 } from './Matrix2x2'
+export { VennDiagram } from './VennDiagram'
+export { LayeredStack } from './LayeredStack'
+export { HubSpoke } from './HubSpoke'
+export { GridMap } from './GridMap'
